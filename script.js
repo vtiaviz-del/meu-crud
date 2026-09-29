@@ -1,4 +1,4 @@
-const API_URL = "SUA_URL_DO_APPS_SCRIPT_AQUI";
+const API_URL = "https://script.google.com/macros/s/AKfycbwBLGYWZ8GTMLDsu6kleaxy5jb26DX0-FLrNpCIc0XjA3Tv7GvnOej22-UcDJNxczdf/exec";
 
 // Referências aos elementos do DOM
 const productForm = document.getElementById("productForm");
